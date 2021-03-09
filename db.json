@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "userId":1,"id": 1, "title": "nacteno z gitu", "body": "tak to je neco jineho" },
-    { "userId":1,"id": 2, "title": "nacteno z gitu 2", "body": "zdar jak svina"},
-    { "userId":1,"id": 3, "title": "nacteno z gitu", "body": "tak to je neco jineho" }
+    { "id": 1,"userId":1, "title": "nacteno z gitu", "body": "tak to je neco jineho" },
+    { "id": 2,"userId":1, "title": "nacteno z gitu 2", "body": "zdar jak svina" },
+    { "id": 3,"userId":1, "title": "nacteno z gitu", "body": "tak to je neco jineho" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -12,3 +12,4 @@
     "name": "josse7cz"
   }
 }
+
